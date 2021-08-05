@@ -2,7 +2,7 @@
 name: 回報Bug
 about: 回報bug讓伺服器更好
 title: "[BUG] "
-labels: ''
+labels: bug
 assignees: RobotHanzo, hackerG7
 
 ---
